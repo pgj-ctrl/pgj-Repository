@@ -1,0 +1,6 @@
+https://fedoraproject.org/wiki/EPEL/zh-cn      EPEL（额外软件包）
+https://www.python.org/      python官网
+https://pypi.org/project/wget/    python安装模块网站
+https://www.jetbrains.com/   pycharm官网
+https://code.visualstudio.com/    	vs code （各大文件编辑器）
+http://docs.ansible.com/               ansible文档
